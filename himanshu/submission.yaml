@@ -1,0 +1,10 @@
+# challenge name(s); defaults to all compatible challenges
+challenge: [anc-01-LF-sim-validation,anc-02-LF-sim-validation,anc-03-LF-sim-validation,anc-04-LF-sim-validation,anc-05-LF-sim-validation,anc-06-LF-sim-validation]
+
+# conventions + format
+protocol: aido2_db18_agent-z2
+# any user label - displayed in "challenges list"
+user-label: student-himanshu
+# any JSON payload
+user-payload: {}
+
